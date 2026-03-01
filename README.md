@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rugved 👋
 
-<!--
-**Rugved-05/Rugved-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer & Backend Builder from India.
 
-Here are some ideas to get you started:
+I design and build intelligent systems — from AI assistants to scalable backend APIs — and deploy them to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Build AI-powered applications (LLM integrations)
+- Design backend systems & REST APIs
+- Debug, optimize & deploy real-world projects
+- Explore automation & algorithmic systems
+
+## Tech Stack
+Python • JavaScript • APIs • Git • System Design  
+Deployment: Render • Vercel • GitHub
+
+## Current Focus
+Building scalable AI products and participating in a hackathons.
+
+---
+
+I believe in building, shipping fast, and improving continuously.
+Open to collaborations, remote opportunities, and innovative projects.
